@@ -1,0 +1,72 @@
+header{
+    display: flex;
+   align-items: center;
+   justify-content: space-around;
+}
+nav{
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+}
+nav a{
+    text-decoration: none;
+}
+.iki{
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+.iki button{
+    margin-top: 5;
+}
+.kr h2{
+text-align: center;
+padding-top: 50px;
+}
+.rk div{
+    width: 344px;
+    height: 414px;
+    top: 1022px;
+    left: 143px;
+    gap: 0px;
+    border-radius: 9px 0px 0px 0px;
+    opacity: 0px;
+    
+}
+.rk{
+    display: flex;
+    justify-content: space-around;align-items: center;
+    margin-top: 50px;
+    background-image: url(./для\ фона.png);
+    height: 580px;
+}
+.vr div{
+    width: 400px;
+    height: 187px;
+    border: 2px solid;
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+}
+.vr{
+    display: flex;
+    justify-content: space-around;
+    height: 300px;
+    margin-top: 100px;
+    background: linear-gradient(94.31deg, rgba(212, 20, 90, 0.25) 0.96%, rgba(46, 49, 146, 0.25) 104.83%);
+
+}
+.gr{
+    position: absolute;
+    margin-bottom: 185px;
+    margin-left:100px ;
+}
+footer div{
+width: 224px;
+}
+footer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+
